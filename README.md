@@ -16,6 +16,6 @@ Steps:
 7. At the end, just write down notes name and click Export to download.
 
 ## YouTube channel link 
-[Link] https://www.youtube.com/watch?v=czMIxp7lCKE
+[https://www.youtube.com/watch?v=czMIxp7lCKE]
 
 ## Medium blog 
