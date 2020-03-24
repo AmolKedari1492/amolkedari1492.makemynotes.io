@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## MakeMyNotes Chrome extention
 
-You can use the [editor on GitHub](https://github.com/AmolKedari1492/amolkedari1492.makemynotes.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+_This extension helps you to create your own notes. While surfing you can add text and images to this plugin and later on you can format and make your own notes._
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+By using this extension you can create your own notes. Simply go on adding text and images in MakeMyNotes. Now by using extension you can create your custom notes.
 
-### Markdown
+Steps: 
+1. If you want to add text, just select that text, right click on that, click on Add to MakeMyNotes
+2. If you want to add image, right click on image and add to MakeMyNotes
+3. Now open a MakeMyNotes extension, you will see all added text and images.
+4. Select items which you want to add in your notes.
+5. There are other option where you can edit or delete(it is permanently delete from extension).
+6. Once you entered in format option where you can see all selected item. Here you can reorder them, just drag and  drop in other items.
+7. At the end, just write down notes name and click Export to download.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## YouTube channel link 
+[Link] https://www.youtube.com/watch?v=czMIxp7lCKE
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AmolKedari1492/amolkedari1492.makemynotes.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Medium blog 
