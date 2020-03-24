@@ -6,7 +6,7 @@ This extension reduced your effort.
 
 _By using this extension you can create your own notes. Simply go on adding text and images in MakeMyNotes. Now by using extension you can create your custom notes._
 
-_Steps: 
+Steps: 
 1. If you want to add text, just select that text, right click on that, click on Add to MakeMyNotes
 2. If you want to add image, right click on image and add to MakeMyNotes
 3. Now open a MakeMyNotes extension, you will see all added text and images.
