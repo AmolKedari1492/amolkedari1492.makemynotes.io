@@ -16,6 +16,7 @@ Steps:
 7. At the end, just write down notes name and click Export to download.
 
 ## YouTube channel link 
-[https://www.youtube.com/watch?v=czMIxp7lCKE]
+https://www.youtube.com/watch?v=czMIxp7lCKE
 
 ## Medium blog 
+https://medium.com/@kedarisamols/makemynotes-chrome-extension-a-new-way-of-creating-custom-notes-47f613088dbb
